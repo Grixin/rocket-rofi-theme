@@ -3,8 +3,11 @@
 ## Font (SourceCodePro)
 - [Nerd Fonts GitHub](https://github.com/ryanoasis/nerd-fonts)
 
+## Polybar Theme
+- [Polybar Rocket](https://github.com/Murzchnvok/polybar-rocket)
+
 ## Wallpaper
-- [simpledesktops](http://simpledesktops.com/browse/desktops/2019/mar/04/zurich-skyline/)
+- [backiee](https://backiee.com/wallpaper/vector-forest/98927)
 
 ## Icon Pack
 - [Flat Remix](https://github.com/daniruiz/Flat-Remix)
