@@ -5,15 +5,15 @@ configuration {
   drun-display-format: "{icon} {name}";
   display-run: " ";
   display-drun: " ";
-  display-window: " ";
+  display-window: " ";
 }
 
 * {
-  bg: #3b6978;
+  bg: #204051;
   bg-alt: #000;
   fg: #D8DEE9;
   fg-alt: #FFF;
-  background-color: #20405177;
+  background-color: #20405155;
   border: 0;
   padding: 0;
   margin: 0;
@@ -39,7 +39,7 @@ listview {
 
 element {
   orientation: vertical;
-  padding: 12;
+  padding: 12 12 12 8;
   text-color: @fg;
 }
 
@@ -56,7 +56,8 @@ inputbar {
 prompt {
   enabled: true;
   text-color: @fg;
-  padding: 12 0 0 12;
+  padding: 12 0 0 8;
+  font: "SauceCodePro Nerd Font Medium 11";
 }
 
 entry {
